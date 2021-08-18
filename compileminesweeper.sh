@@ -1,0 +1,1 @@
+gcc -std=c99 -Wall -Wextra -pedantic -Wno-unused-parameter -g main.c src/game_round.c src/files_handling.c src/print_functions.c src/memory_allocation.c src/command_line.c src/board_defining.c src/saved_games.c -o  minesweeper
